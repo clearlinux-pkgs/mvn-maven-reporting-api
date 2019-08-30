@@ -4,35 +4,36 @@
 #
 Name     : mvn-maven-reporting-api
 Version  : 2.0.6
-Release  : 6
+Release  : 7
 URL      : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
 Source0  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
-Source1  : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.1/maven-reporting-2.0.1.pom
-Source2  : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
-Source3  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.jar
-Source4  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.pom
-Source5  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom
-Source6  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.jar
-Source7  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.pom
-Source8  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
-Source9  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
-Source10  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.jar
-Source11  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.pom
-Source12  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
-Source13  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
-Source14  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar
-Source15  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom
-Source16  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
-Source17  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.7/maven-reporting-2.0.7.pom
-Source18  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/2.2.0/maven-reporting-2.2.0.pom
-Source19  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
+Source1  : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.1.0/maven-reporting-api-2.1.0.jar
+Source2  : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.1.0/maven-reporting-api-2.1.0.pom
+Source3  : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.1/maven-reporting-2.0.1.pom
+Source4  : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+Source5  : https://repo.maven.apache.org/maven2/org/apache/maven/reporting/maven-reporting/2.1.0/maven-reporting-2.1.0.pom
+Source6  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.jar
+Source7  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.pom
+Source8  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom
+Source9  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.jar
+Source10  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.pom
+Source11  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
+Source12  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
+Source13  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.jar
+Source14  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.pom
+Source15  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
+Source16  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
+Source17  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar
+Source18  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom
+Source19  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
+Source20  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/2.0.7/maven-reporting-2.0.7.pom
+Source21  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/2.2.0/maven-reporting-2.2.0.pom
+Source22  : https://repo1.maven.org/maven2/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
 Summary  : No detailed summary available
 Group    : Development/Tools
 License  : Apache-2.0
 Requires: mvn-maven-reporting-api-data = %{version}-%{release}
 Requires: mvn-maven-reporting-api-license = %{version}-%{release}
-BuildRequires : apache-maven
-BuildRequires : buildreq-mvn
 
 %description
 No detailed description available
@@ -64,62 +65,71 @@ cp LICENSE.txt %{buildroot}/usr/share/package-licenses/mvn-maven-reporting-api/L
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6
 cp %{SOURCE0} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.jar
 
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.1.0
+cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.1.0/maven-reporting-api-2.1.0.jar
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.1.0
+cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.1.0/maven-reporting-api-2.1.0.pom
+
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.1
-cp %{SOURCE1} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.1/maven-reporting-2.0.1.pom
+cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.1/maven-reporting-2.0.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.9
-cp %{SOURCE2} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+
+mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.1.0
+cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.1.0/maven-reporting-2.1.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.1
-cp %{SOURCE3} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.jar
+cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.1
-cp %{SOURCE4} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.pom
+cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.1/maven-reporting-api-2.0.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6
-cp %{SOURCE5} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom
+cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.6/maven-reporting-api-2.0.6.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.7
-cp %{SOURCE6} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.jar
+cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.7
-cp %{SOURCE7} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.pom
+cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9
-cp %{SOURCE8} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
+cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9
-cp %{SOURCE9} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
+cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.0
-cp %{SOURCE10} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.jar
+cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.0
-cp %{SOURCE11} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.pom
+cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1
-cp %{SOURCE12} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
+cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1
-cp %{SOURCE13} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
+cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/3.0
-cp %{SOURCE14} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar
+cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.jar
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/3.0
-cp %{SOURCE15} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom
+cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/3.0/maven-reporting-api-3.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.6
-cp %{SOURCE16} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
+cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.7
-cp %{SOURCE17} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.7/maven-reporting-2.0.7.pom
+cp %{SOURCE20} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.7/maven-reporting-2.0.7.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.0
-cp %{SOURCE18} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.0/maven-reporting-2.2.0.pom
+cp %{SOURCE21} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.0/maven-reporting-2.2.0.pom
 
 mkdir -p %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.1
-cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
+cp %{SOURCE22} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
 
 
 %files
@@ -135,6 +145,8 @@ cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/repor
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.7/maven-reporting-api-2.0.7.pom
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.jar
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.0.9/maven-reporting-api-2.0.9.pom
+/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.1.0/maven-reporting-api-2.1.0.jar
+/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.1.0/maven-reporting-api-2.1.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.jar
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.0/maven-reporting-api-2.2.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting-api/2.2.1/maven-reporting-api-2.2.1.jar
@@ -145,6 +157,7 @@ cp %{SOURCE19} %{buildroot}/usr/share/java/.m2/repository/org/apache/maven/repor
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.6/maven-reporting-2.0.6.pom
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.7/maven-reporting-2.0.7.pom
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.0.9/maven-reporting-2.0.9.pom
+/usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.1.0/maven-reporting-2.1.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.0/maven-reporting-2.2.0.pom
 /usr/share/java/.m2/repository/org/apache/maven/reporting/maven-reporting/2.2.1/maven-reporting-2.2.1.pom
 
